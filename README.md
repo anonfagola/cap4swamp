@@ -2,6 +2,8 @@
 
 **This only works on Windows. Get fucked, Mac fags.**
 
+This script takes a picture of your screen every minute, and puts it in a folder. That's it.
+
 * Install **Python 2.7 (3.x WILL NOT WORK)** and Pip (should come with Python)
 * Download this repo as a zip and put it in any folder (preferably its own, as it'll make new folders every day you run it)
 * Go to a command prompt window and type **pip install pyscreenshot**
