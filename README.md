@@ -6,7 +6,7 @@ This script takes a picture of your screen every minute, and puts it in a folder
 
 * Install **Python 2.7 (3.x WILL NOT WORK)** and Pip (should come with Python)
 * Download this repo as a zip and put it in any folder (preferably its own, as it'll make new folders every day you run it)
-* Go to a command prompt window and type **pip install pyscreenshot**
+* Go to a command prompt window and type **pip install pillow pyscreenshot**
 * cd to the directory you put this in
 * Type **py cap4swamp.py**
 * Leave it running as you raid
