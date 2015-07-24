@@ -30,6 +30,7 @@ while True:
 	except Exception:
 		print "Error saving image."
 		traceback.print_exc()
+		sys.exit()
 	
 	print "Screencapped! Next screencap will be in 60 seconds."
 	
